@@ -1,0 +1,8 @@
+librosa
+numpy
+streamlit
+pydub
+matplotlib
+pandas
+transformers
+madmom
